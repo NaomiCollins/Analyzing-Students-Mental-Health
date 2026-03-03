@@ -1,4 +1,5 @@
 Does going to university in a different country affect mental health?
+
 I completed this project by analysing students’ mental health to investigate whether studying in a different country affected well-being. 
 The project was based on a 2018 survey conducted by a Japanese international university, which was published the following year after 
 receiving approval from several ethical and regulatory boards. The original study concluded that international students were at a higher 
